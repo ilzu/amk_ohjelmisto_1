@@ -1,2 +1,2 @@
-# amk_ohjelmisto_1
-Just school stuff, nothing of intrest in here.
+# Ohjelmisto 1
+Just school stuff, excercises for course "Ohjelmisto 1", nothing of intrest in here.
