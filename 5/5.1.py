@@ -6,7 +6,7 @@ def main():
     dices = int(input("Anna noppien lukumäärä: "))
     results = []
     for i in range(dices):
-        results.append(randint(1,6))
+        results.append(randint(1,7))
 
     sum = 0
     for result in results:
