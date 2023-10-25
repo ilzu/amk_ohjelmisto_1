@@ -30,7 +30,7 @@ class Talo:
         self.bottomfloor = bottomfloor
         self.topfloor = topfloor
         self.elevators = []
-        for i in range(bottomfloor, topfloor + 1):
+        for i in range(elevators):
             elevator = Hissi(bottomfloor, topfloor)
             self.elevators.append(elevator)
 
