@@ -29,6 +29,7 @@ def main():
         for auto in autot:
             auto.kiihdyta(randint(-10,16))
             auto.kulje(1)
+        for auto in autot:
             if auto.odometer >= 10000:
                 jatka = False
     for auto in autot:
